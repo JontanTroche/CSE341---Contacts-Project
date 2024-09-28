@@ -5,7 +5,7 @@
     "description": "Useres Api",
     "version": "1.0.0"
   },
-  "host": "https://cse341-contacts-project-i590.onrender.com",
+  "host": "cse341-contacts-project-i590.onrender.com",
   "basePath": "/",
   "schemes": [
     "https"
